@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "u100",
+    "fullname": "admin",
+    "username": "admin",
+    "password": "admin",
+    "isAdmin": true
+  },
+  {
+    "_id": "u101",
+    "fullname": "Guy Kadosh",
+    "username": "guyk",
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "_id": "u102",
+    "fullname": "Puki Shmuki",
+    "username": "puki",
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "_id": "QUFwH",
+    "fullname": "Muki Shpuki",
+    "username": "muki",
+    "password": "123",
+    "isAdmin": false
+  }
+]

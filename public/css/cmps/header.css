@@ -1,0 +1,15 @@
+header {
+  background-image: linear-gradient(to right bottom, #234567f1, #2345679c);
+  padding: 0.8rem;
+}
+
+header .logo img {
+  width: 85px;
+  margin-inline-end: 1rem;
+}
+
+header h1 {
+  font-size: 3rem;
+  color: #fff;
+  font-family: cursive;
+}

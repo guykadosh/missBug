@@ -1,0 +1,7 @@
+.main-layout {
+  /* padding-inline-start: var(--spacing-large);
+  padding-inline-end: var(--spacing-large);
+  margin-top: 3rem; */
+  max-width: 980px;
+  margin: 0 auto;
+}
